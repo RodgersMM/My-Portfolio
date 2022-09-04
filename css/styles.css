@@ -75,3 +75,8 @@ body{
     display:flex;
     flex-direction: column;
 }
+
+.righ-sidebar{
+    display: flex;
+    flex-direction: column;
+}
