@@ -60,3 +60,8 @@ body{
     border-radius: 10px;
     text-align: center;
 }
+
+.right-sidebar-items{
+    display: flex;
+    flex-direction: row;
+}
