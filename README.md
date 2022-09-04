@@ -1,10 +1,10 @@
 # RodgersMM Portfolio
 
 ## Project Name
-RodgersMM Portfolio
+Rodgers Mutua Developer Portfolio
 
 ## Author Name
-Rodgers Mutua
+RodgersMM
 
 ## Description of the project
 An Online portfolio for Rodgers Mutua
@@ -16,13 +16,6 @@ Open the respository on vscode
 
 ## Link to live site on GitHub Pages
 https://github.com/RodgersMM/portfolio.git 
+
 ## copyright and license information
 @ Rodgers Mutua
-
-
-Sections
-   -Name
-   -Profile Image
-   -List of Projects
-   -About Me# portfolio
-# portfolio

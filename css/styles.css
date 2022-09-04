@@ -63,5 +63,15 @@ body{
 
 .right-sidebar-items{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+}
+
+.left-sidebar{
+    display: flex;
+    flex-direction: column;
+}
+
+.left-sidebar-items{
+    display:flex;
+    flex-direction: column;
 }
