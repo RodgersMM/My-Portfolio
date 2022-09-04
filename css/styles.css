@@ -29,6 +29,7 @@ body{
     border: 5px;
     border-radius: 10px;
     border: solid;
+    flex-basis: 1fr 2fr 1fr;
 }
 
 .main-items{
@@ -76,7 +77,9 @@ body{
     flex-direction: column;
 }
 
-.righ-sidebar{
+.right-sidebar{
     display: flex;
     flex-direction: column;
+    width:20%;
+    margin: 10px;
 }
