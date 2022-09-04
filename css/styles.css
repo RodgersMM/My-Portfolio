@@ -28,7 +28,7 @@ body{
     flex-direction: row;
     border: 5px;
     border-radius: 10px;
-    border-style:double;
+    border: solid;
 }
 
 .main-items{
@@ -36,7 +36,7 @@ body{
     flex-direction: row;
     flex: 1 1 100;
     border: 5px;
-    border-style: double;
+    border: solid;
 }
 
 .sidebar1{
