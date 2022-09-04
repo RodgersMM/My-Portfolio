@@ -38,3 +38,25 @@ body{
     border: 5px;
     border-style: double;
 }
+
+.sidebar1{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.sidebar1-items{
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+.footer{
+    background-color:blanchedalmond;
+    height: 8vh;
+    border: 10px;
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+}
