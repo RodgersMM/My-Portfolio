@@ -8,7 +8,7 @@ RodgersMM
 
 ## Description of the project
 An Online portfolio for Rodgers Mutua
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 ## Project setup Instructions
 Clone the respository
 Open the respository on vscode

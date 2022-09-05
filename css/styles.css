@@ -7,8 +7,8 @@
 
 body{
     margin: 10px 50px;
-    border: 10px; 
-    border-style:double;
+    border: 5px; 
+    border: solid;
     border-radius: 20px;
 
 
@@ -19,7 +19,7 @@ body{
     background-color:blanchedalmond;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    border: 10px;
+    border: 5px;
     border-radius: 10px;
 }
 
@@ -29,7 +29,7 @@ body{
     border: 5px;
     border-radius: 10px;
     border: solid;
-    flex-basis: 1fr 2fr 1fr;
+    
 }
 
 .main-items{
@@ -70,6 +70,7 @@ body{
 .left-sidebar{
     display: flex;
     flex-direction: column;
+
 }
 
 .left-sidebar-items{
@@ -80,6 +81,17 @@ body{
 .right-sidebar{
     display: flex;
     flex-direction: column;
-    width:20%;
-    margin: 10px;
+    flex-basis: 1;
+    
+    
+}
+
+.unlist{
+    text-decoration: none;
+}
+
+.profile-picture{
+    width: 100px;
+    height: 100px;
+
 }
