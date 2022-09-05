@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     
 
 }
@@ -43,14 +44,11 @@ body{
 .sidebar1{
     display: flex;
     flex-direction: column;
- 
 }
 
 .sidebar1-items{
     display: flex;
     flex-direction: column;
-    
-   
 }
 
 .footer{
@@ -81,17 +79,23 @@ body{
 .right-sidebar{
     display: flex;
     flex-direction: column;
-    flex-basis: 1;
-    
-    
+    align-content: center;
+    max-width: max-content;
 }
 
 .unlist{
     text-decoration: none;
+    list-style: none;
+    align-items: center;
+
 }
 
 .profile-picture{
     width: 100px;
     height: 100px;
 
+}
+
+.h2{
+    text-align: center;
 }
