@@ -36,7 +36,7 @@ body{
 .main-items{
     display: flex;
     flex-direction: row;
-    flex: 1 1 100;
+    flex: 1;
    
     border: solid;
 }
@@ -53,7 +53,7 @@ body{
 
 .footer{
     background-color:blanchedalmond;
-    height: 8vh;
+    height: 15vh;
     border: 10px;
     border: solid;
     border-radius: 10px;
@@ -80,7 +80,7 @@ body{
     display: flex;
     flex-direction: column;
     align-content: center;
-    flex-basis: 1;
+
 }
 
 .unlist{
