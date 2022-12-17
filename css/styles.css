@@ -36,8 +36,7 @@ body{
 .main-items{
     display: flex;
     flex-direction: row;
-    flex: 1;
-   
+    flex: 1; 
     border: solid;
 }
 
